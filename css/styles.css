@@ -18,7 +18,7 @@
     font-family: 'Roboto', Tahoma, sans-serif;
     font-weight: 400;
     font-size: 14px;
-    line-height: 1,7;
+    line-height: 1.7;
     letter-spacing: 0.03em;
 }
 
@@ -30,7 +30,7 @@
     font-family: 'Raleway', Tahoma, sans-serif;
     font-weight: 700;
     font-size: 26px;
-    line-height: 1,2;
+    line-height: 1.2;
     text-decoration: none;
 }
 .header .accent {
@@ -48,7 +48,7 @@
 
     font-weight: 500;
     font-size: 14px;
-    line-height: 1,14;
+    line-height: 1.14;
     letter-spacing: 0.02em;
     text-decoration: none;
 }
@@ -68,7 +68,7 @@
 
     font-weight: 500;
     font-size: 14px;
-    line-height: 1,14;
+    line-height: 1.14;
     letter-spacing: 0.02em;
     text-decoration: none;
 }
@@ -89,7 +89,7 @@
 
     font-weight: 900;
     font-size: 44px;
-    line-height: 1,36;
+    line-height: 1.36;
     text-align: center;
     letter-spacing: 0.06em;
 }
@@ -101,7 +101,7 @@
     font-family: inherit;
     font-weight: 700;
     font-size: 16px;
-    line-height: 1,9;
+    line-height: 1.9;
     letter-spacing: 0.06em;
     cursor: pointer;
 }
@@ -118,7 +118,7 @@
 
     font-weight: 700;
     font-size: 14px;
-    line-height: 1,14;
+    line-height: 1.14;
 }
 
 .sections-title {
@@ -126,7 +126,7 @@
 
     font-weight: 700;
     font-size: 36px;
-    line-height: 1,17;
+    line-height: 1.17;
     text-align: center;
 }
 
@@ -139,13 +139,13 @@
 
     font-weight: 500;
     font-size: 16px;
-    line-height: 1,2;
+    line-height: 1.2;
     text-align: center;
 }
 
 .staff-position {
     font-size: 16px;
-    line-height: 1,2;
+    line-height: 1.2;
     text-align: center;
 }
 
@@ -161,7 +161,7 @@
 
     font-weight: 700;
     font-size: 26px;
-    line-height: 1,2;
+    line-height: 1.2;
     text-decoration: none;
 }
 .footer .accent {
@@ -207,12 +207,13 @@
     font-family: inherit;
     font-weight: 500;
     font-size: 16px;
-    line-height: 1,6;
+    line-height: 1.6;
     cursor: pointer;
 }
 
 .list-button:hover,
 .list-button:focus {
+    color: var(--primary-white-color);
     background-color: var(--primary-accent-color);
 }
 
@@ -234,5 +235,5 @@
     color: var(--primary-text-color);
 
     font-size: 16px;
-    line-height: 1,9;
+    line-height: 1.9;
 }
